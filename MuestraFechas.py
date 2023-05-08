@@ -24,5 +24,5 @@ print('Fecha Actual: %s: ' %(FechaActual))
 print("Día %s - Mes %s - Año %s" %(DiaActual,MesActual,AñoActual) )
 print("Hora:%s Minutos:%s Segundos:%s" %(HoraActual,MinutoActual,SegundoActual) )
 
-
 # Fin Archivo 
+# --------- Fin Programa ---------- 
